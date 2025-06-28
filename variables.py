@@ -22,3 +22,11 @@ print("The name of student is ", name, "and his age is", age)
 # Variables rules
 # if i want check the type of the operator i can use type() function
 # print(type(a))
+# rules to variables
+        # 1: Variables must contain a valid variable name
+        # 2: Variables must not start with a number
+        # 3: Variables must not contain any spaces
+        # 4: Variables must not contain any special characters except for underscores
+        # 5: variable name not a reserved keyword.
+ 
+        
