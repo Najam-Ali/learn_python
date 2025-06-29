@@ -14,4 +14,4 @@
 a = int(input("Enter your first number: "))
 b = int(input("Enter your second number: "))
 print("The sum of your two numbers is: ", a + b) # This output is gives you the sum of the two number.
-# print ("The sum of your two numbers is: ", int(a) + int(b)) Its an other way write if you want to convert the input to integer that are already string.Mean both operation perform in one line like conversion and sum operaton.
+# print ("The sum of your two numbers is: ", int(a) + int(b)) # Its an other way write if you want to convert the input to integer that are already string.Mean both operation perform in one line like conversion and sum operaton.
