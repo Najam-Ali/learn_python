@@ -46,3 +46,10 @@ my_string = "operators in python"
 
 # print("Sorted characters:", sorted(my_string.strip()))
 # sorted(var_name): returns a sorted list(orderedly) of the characters in the string.
+
+# new_string = my_string.replace('p', 'P', 1) # replace only first index p to P and if i write their 13 index and want to change the p of 13 index but this syntax change whole the occurance of p in string means starting to targeted index. 
+# print(new_string) 
+
+# print("The sspecific char of the string on particuar index ",my_string[:13] + my_string[13].upper() + my_string[14:]) # Its is a way when you change your a character of string that you want.
+
+
