@@ -7,4 +7,4 @@ you are selected!
 
 # Try another method to print this.
 
-print(latter.replace("< |Name| >","Najam Ali").replace("< |Date| >","07 july 2025")) # its an other way to print this latter formate and its important for the best practice to use of the string function of python.
+print(latter.replace("< |Name| >","Najam Ali").replace("< |Date| >","07 july 2025")) # its an other way to print this latter formate and its important for the best practice to use of the string function of python.And its also called the chaining of the string.
