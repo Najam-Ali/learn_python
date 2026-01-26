@@ -1,0 +1,4 @@
+Here we learn more about the file functions./
+First of all we leanr about the readlines ().
+Its work to display the text lines in my file in a list.
+We will use it in multiple ways.

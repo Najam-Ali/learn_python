@@ -1,1 +1,2 @@
 Hello! Its file generated randomly for the learn the concept of the file input/ output concept.
+Here! we take the example of append mode.Here! we take the example of append mode.Here! we take the example of append mode.Here! we take the example of append mode.
