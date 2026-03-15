@@ -16,6 +16,5 @@ total = 0
 # # Loop 1 se user_input tak
 for i in range(1, user_input + 1):
     total += i  #     total = total + i
-    
 # Final sum print karo
 print(f"The sum of numbers from 1 to {user_input} is: {total}")
